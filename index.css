@@ -1,0 +1,54 @@
+.banner {
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px 0;
+    position: static;
+}
+
+.ovo {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: oldlace;
+
+}
+
+.ovo li {
+    display: inline-block;
+    padding: 0px 20px;
+    
+}
+
+.ovo a {
+    text-decoration: none;
+    color: black;
+}
+
+#small-drake {
+    height: 300px;
+    width: 500px;
+    filter: drop-shadow(1px 1px 1px black);
+
+}
+
+#owl {
+    font-size: 100px;
+    color: purple;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+a.blue {
+    color: rgb(255, 0, 119);
+}
+
+video {
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+    height: 500px;
+}
